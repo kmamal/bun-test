@@ -1,0 +1,4 @@
+{
+  "dependencies": { "@kmamal/sdl": "^0.10.2" },
+  "trustedDependencies": ["@kmamal/sdl"]
+}
